@@ -1,0 +1,26 @@
+{
+  "name": "@yci/paginator",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yc-ionic/paginator.git"
+  },
+  "author": {
+    "name": "Yu Chen",
+    "email": "yu.chen@live.ie"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yc-ionic/paginator.git/issues"
+  },
+  "main": "yci-paginator.umd.js",
+  "module": "yci-paginator.js",
+  "jsnext:main": "yci-paginator.js",
+  "typings": "yci-paginator.d.ts",
+  "peerDependencies": {
+    "ionic-angular": "^3.6.0"
+  }
+}
