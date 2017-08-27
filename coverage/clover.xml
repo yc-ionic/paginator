@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1503740568789" clover="3.2.0">
-  <project timestamp="1503740568789" name="All files">
+<coverage generated="1503841750604" clover="3.2.0">
+  <project timestamp="1503841750604" name="All files">
     <metrics statements="54" coveredstatements="54" conditionals="14" coveredconditionals="14" methods="10" coveredmethods="10" elements="78" coveredelements="78" complexity="0" loc="54" ncloc="54" packages="1" files="2" classes="2">
       <file name="component.ts" path="/Users/yuchen/Projects/yci/paginator/src/component.ts">
         <metrics statements="48" coveredstatements="48" conditionals="14" coveredconditionals="14" methods="9" coveredmethods="9"/>
@@ -58,9 +58,9 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
-        <line num="5" count="1" type="stmt"/>
-        <line num="7" count="1" type="stmt"/>
-        <line num="24" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
       </file>
     </metrics>
   </project>
