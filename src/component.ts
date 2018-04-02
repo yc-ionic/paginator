@@ -74,7 +74,7 @@ export class Paginator implements OnInit {
       filters = JSON.parse(JSON.stringify(this.params.filters));
     }
     options.page = this.page;
-    return `${this.params.url}?_options=${JSON.stringify(options)}&_filters=${JSON.stringify(filters)}`;
+    return `${this.params.url}?_options=${encodeURIComponent(JSON.stringify(options))}&_filters=${encodeURIComponent(JSON.stringify(filters))}`;
   }
 
   private push(items: Array<any>) {
